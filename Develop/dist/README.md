@@ -1,10 +1,10 @@
 
-<h1 align="center">as</h1>
+<h1 align="center">title</h1>
 
-![badge](https://img.shields.io/badge/license-GNU-brightgreen)<br />
+![badge](https://img.shields.io/badge/license-Mozilla-brightgreen)<br />
 
 ## Description
-🔍 as
+🔍 descrip
 
 ## Table of Contents
 - [Description](#description)
@@ -16,28 +16,28 @@
 - [Questions](#questions)
 
 ## Installation
-💾 as
+💾 y
 
 ## Usage
-💻 as
+💻 y
 
 ## License
-![badge](https://img.shields.io/badge/license-GNU-brightgreen)
+![badge](https://img.shields.io/badge/license-Mozilla-brightgreen)
 <br />
-This application is covered by the GNU license. 
+This application is covered by the Mozilla license. 
 
 ## Contributing
-👪 as
+👪 n/a
 
 ## Tests
-✏️ as
+✏️ n
 
 ## Questions
-✋ as<br />
+✋ email<br />
 <br />
-:octocat: Find me on GitHub: [as](https://github.com/as)<br />
+:octocat: Find me on GitHub: [ivydo](https://github.com/ivydo)<br />
 <br />
-✉️ Email me with any questions: as<br /><br />
+✉️ Email me with any questions: ivydo@gmail<br /><br />
 
 _This README was generated with ❤️ by [README-generator](https://github.com/ivydo/README-Generator-) 🔥🔥🔥_
   
