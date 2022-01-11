@@ -13,7 +13,7 @@ Run the following command at the root of your project and answer the prompted qu
   
 `node index.js`
 
-![App Demo](src\Demo.gif)
+![Demo](src\Demo.gif)
 
 Video Walkthrough can be found [here](src\Demo.webm): 
 https://watch.screencastify.com/v/kEhiZbkOylDdImQuRlWk 
