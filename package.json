@@ -1,0 +1,26 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "## Description A node.js application that uses user input from inquirer to populate a README.md file for user repository. The README.md file is created in the dist directory and can be found [here](.dist/README.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivydo/README-Generator-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivydo/README-Generator-/issues"
+  },
+  "homepage": "https://github.com/ivydo/README-Generator-#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.0",
+    "util": "^0.12.4"
+  }
+}

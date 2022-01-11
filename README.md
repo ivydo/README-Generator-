@@ -34,9 +34,7 @@ THEN I am taken to the corresponding section of the README
 ## Installation
   
 `npm init`
-`npm install inquirer`
-`npm install axios`
-`npm install util`
+`npm install`
 
   
 ## Usage
