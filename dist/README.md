@@ -4,7 +4,7 @@
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
 ## Description
-🔍 Description
+🔍 Example README.md
 
 ## Table of Contents
 - [Description](#description)
@@ -16,7 +16,7 @@
 - [Questions](#questions)
 
 ## Installation
-💾 No
+💾 npm install
 
 ## Usage
 💻 Generator 
@@ -27,7 +27,7 @@
 This application is covered by the MIT license. 
 
 ## Contributing
-👪 UCF
+👪 UCF Coding Bootcamp
 
 ## Tests
 ✏️ No
@@ -37,7 +37,7 @@ This application is covered by the MIT license.
 <br />
 :octocat: Find me on GitHub: [ivydo](https://github.com/ivydo)<br />
 <br />
-✉️ Email me with any questions: ivy@gmail.com<br /><br />
+✉️ Email me with any questions: ivy.do2011@gmail.com<br /><br />
 
 _This README was generated with ❤️ by [README-generator](https://github.com/ivydo/README-Generator-) 🔥🔥🔥_
   
